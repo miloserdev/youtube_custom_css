@@ -1,0 +1,78 @@
+.ytp-gradient-bottom {
+    display: none !important;
+}
+
+.ytp-chrome-bottom {
+    backdrop-filter: saturate(180%) blur(20px);
+    background: rgba(0, 0, 0, 0.53) !important;
+    --vvs: calc(2vh * 1.3);
+    padding: 12px var(--vvs) 0px var(--vvs);
+    left: 0 !important;
+}
+
+.sbsb_a,
+.sbsb_b,
+#contentContainer.tp-yt-app-drawer {
+    background: transparent !important;
+}
+
+.sbsb_b .sbpqs_a,
+.sbfl_a {
+    color: white;
+}
+
+li.sbsb_c.gsfs {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.sbsb_d {
+    background: rgba(0, 0, 0, 0.5)
+}
+
+.sbfl_b,
+.sbfl_a {
+    background: transparent;
+}
+
+#voice-search-button.ytd-masthead {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+ytd-searchbox[has-focus] #container.ytd-searchbox {
+    z-index: 9;
+    border-bottom: 0;
+}
+
+.sbdd_b,
+#guide-content.ytd-app,
+ytd-masthead {
+    backdrop-filter: saturate(180%) blur(20px);
+    background: rgba(0, 0, 0, 0.53) !important;
+    border: none !important;
+}
+
+#container.ytd-searchbox {
+    background: rgba(0, 0, 0, 0.2) !important;
+}
+
+annotation annotation-type-custom iv-branding,
+.branding-img-container {
+    opacity: 0 !important;
+    display: none !important;
+}
+
+.branding-img,
+ytd-consent-bump-lightbox,
+iron-overlay-backdrop {
+    visibility: hidden;
+}
+
+ytd-thumbnail #thumbnail.ytd-thumbnail {
+    border-radius: 8px;
+    transition: all 0.418s cubic-bezier(0.66, 0, 0, 1);
+}
+
+ytd-thumbnail #thumbnail.ytd-thumbnail:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0 10px 10px rgba(0, 0, 0, 0.5));
+}

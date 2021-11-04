@@ -23,4 +23,5 @@
 
 ## Guide
 Copy all data from youtube.css to your extension settings for YouTube website
+
 Good luck

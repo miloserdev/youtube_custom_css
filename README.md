@@ -20,3 +20,7 @@
 [User CSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=ru)
 [My Style](https://chrome.google.com/webstore/detail/my-style/ljdhjpmbnkbengahefamnhmegbdifhlb?hl=ru)
 [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=ru)
+
+## Guide
+Copy all data from youtube.css to your extension settings for YouTube website
+Good luck
